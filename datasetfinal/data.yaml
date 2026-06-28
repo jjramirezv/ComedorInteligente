@@ -1,0 +1,10 @@
+path: jhondemrd.v4i.yolo-segmentation
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: nada
+  1: arroz
+  2: mandarina
+  3: pescado frito
+  4: yuca
